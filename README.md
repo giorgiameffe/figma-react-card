@@ -6,7 +6,7 @@ Questo progetto dimostra la creazione di un componente "Card" per l'interfaccia 
 
 Il design della card è stato realizzato in Figma, seguendo principi di design moderni per garantire modularità e coerenza visiva.
 
-## 1.1 Obiettivo del Design 
+### 1.1 Obiettivo del Design 
 
 L'obiettivo primario era di progettare una card visivamente accattivante e funzionale, capace di contenere un'immagine di anteprima, un titolo descrittivo, un testo esplicativo e un bottone. Il tutto è stato realizzato attenendosi rigorosamente al metodo *Atomic Design* e alle linee guida di *Material Design* , focalizzandosi unicamente sulla progettazione visiva, senza includere prototipazione o animazioni in questa fase iniziale. L'intento è stato quello di utilizzare frame, griglie e altre best practice di Figma per ottenere un design pulito e coerente.
 
