@@ -4,8 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>Figma Card</h1>
-      <ProductCard />
+      <div className="d-flex justify-content-center mt-5">
+        <ProductCard />
+      </div>
     </>
   )
 }

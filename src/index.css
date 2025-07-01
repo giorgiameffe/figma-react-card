@@ -1,0 +1,35 @@
+/* Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  object-fit: contain;
+}
+
+#root {
+  font-family: "Inter", sans-serif;
+}
+
+/* Card */
+
+.card {
+  border: 2px solid #aeaeae !important;
+}
+
+.card-title {
+  font-size: 20px;
+}
+
+.card-text {
+  font-size: 14px;
+  color: #555555;
+}
+
+.btn {
+  background-color: #FC0266 !important;
+}
