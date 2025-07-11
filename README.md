@@ -45,7 +45,7 @@ Ogni elemento è stato posizionato con precisione, rispettando le spazialità de
 2.  **Inserisci l'immagine**: aggiungi un rettangolo immagine nella parte superiore del frame, impostando larghezza pari alla card e altezza di circa 180px, riempiendolo con un'immagine con l'opzione "Fill".
 3.  **Aggiungi il titolo**: inserisci il titolo (es. "Chanel Coco Mademoiselle") sotto l'immagine. Usa un font leggibile, dimensione ~20px Bold, colore scuro, con 16px di margine dal bordo sinistro e sotto l'immagine.
 4.  **Aggiungi la descrizione**: sotto il titolo, inserisci il testo descrittivo. Usa un font più piccolo (~14-16px Regular), colore leggermente più chiaro, mantenendo il margine sinistro e uno spazio di 8-12px dal titolo.
-5.  **Crea il Bottone di azione**: disegna un rettangolo per il bottone (es. 80x32px) con riempimento colorato e angoli a 4px. Aggiungi il testo "SCOPRI" (~14px Bold, bianco) centrato al bottone. Raggruppa i due elementi e posiziona il bottone in basso a destra (es. 16px dai bordi).
+5.  **Crea il Bottone di azione**: disegna un rettangolo per il bottone (es. 80x32px) con riempimento colorato e angoli a 4px. Aggiungi il testo "SCOPRI" (~14px Bold, bianco) centrato al bottone. Raggruppa i due elementi e posiziona il bottone in basso a destra o a sinistra (es. 16px dai bordi).
 
 ## 💻 3. Tecnologie Utilizzate
 
